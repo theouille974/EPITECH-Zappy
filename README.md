@@ -247,6 +247,34 @@ The client can send up to 10 consecutive requests without waiting for a server r
 
 The GUI uses a specific protocol for communication with the server, documented in `B-YEP-400_zappy_GUI_protocol.pdf`.
 
+## Examples and Screenshots
+
+Here are some visual examples of the Zappy game in action, showcasing the GUI and gameplay elements.
+
+### Principal Menu
+
+![Principal Menu where you can start the game, exit the game, connect to a specific server, change theme color and see the help of the game](./screen/principal_menu.png)
+
+![Help display in the main menu](./screen/help_1.png)
+
+![Help display in the main menu](./screen/help_2.png)
+
+![Help display in the main menu](./screen/help_3.png)
+
+### Gameplay Overview
+
+![A general view of the game world, showing players, resources, and the map layout.](./screen/in_game.png)
+
+### Pause Menu
+
+![Pause menu where you can cut the music, show the help, change theme and exit the game](./screen/pause_menu.png)
+
+### AI Client in Action
+
+![AI Client in game : players](./screen/player_in.png)
+
+![AI Client in game : players](./screen/more_player_in.png)
+
 ## Team and Development Process
 
 This project was developed by a group of five students:
@@ -265,7 +293,3 @@ The server has been validated with Valgrind and shows zero memory leaks, ensurin
 ## Credits
 
 This project was developed at EPITECH.
-
-## License
-
-[Specify your project's license here, e.g., MIT, GPL, etc.]
