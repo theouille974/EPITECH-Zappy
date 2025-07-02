@@ -275,7 +275,7 @@ Here are some visual examples of the Zappy game in action, showcasing the GUI an
 
 ![AI Client in game : players](./screen/player_in.png)
 
-![AI Client in game : players](./screen/more_player_in.png)
+![AI Client in game : players](./screen/more_player_in_game.png)
 
 ## Team and Development Process
 
