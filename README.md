@@ -21,8 +21,10 @@ Welcome to the Zappy project, a multiplayer simulation game developed as part of
   - [Sound Transmission](#sound-transmission)
 - [Commands](#commands)
 - [Communication Protocol](#communication-protocol)
+- [Examples and Screenshots](#exemple-and-screenshots)
 - [Team and Development Process](#team-and-development-process)
 - [Memory Management](#memory-management)
+- [Result of the project](#result-of-the-project)
 - [Credits](#credits)
 - [License](#license)
 
@@ -285,6 +287,41 @@ This project was developed by a group of five students:
 * Yanis BEN SAID
 
 To ensure smooth progress, a lead person was assigned to each of the three main components (Server, GUI, AI), with the remaining two members designated as "supporters" to assist where needed. Time management was structured using a GitHub Project board for task breakdown, progress tracking, and prioritization. A dedicated Discord server facilitated quick communication, push notifications, and issue resolution.
+
+## Result of the project
+
+### Total score : 60.5 / 73 (Best score in the promo)
+
+| Category                          | Score     | Comments                                                                    |
+|-----------------------------------|-----------|-----------------------------------------------------------------------------|
+| Preliminary                       | 2 / 2     |                                                                             |
+| Coding style                      | 0 / 0     |                                                                             |
+| [CORE] Run forever                | 1 / 1     |                                                                             |
+| [NTW] Poll usage                  | 1 / 1     |                                                                             |
+| [NTW] Buffers                     | 3 / 4     |                                                                             |
+| [NTW] Network Buffer Tests        | 1 / 1.5   |                                                                             |
+| [NTW] Network Load Tests          | 4 / 4     |                                                                             |
+| [ARCHI] Layered architecture      | 2 / 3     |                                                                             |
+| [ARCHI] Error management          | 2 / 3     |                                                                             |
+| [FUN] Params                      | 1.5 / 2   |                                                                             |
+| [FUN] AI Protocol                 | 3 / 3     |                                                                             |
+| [FUN] GUI Protocol                | 0 / 3     |                                                                             |
+| [FUN] Time                        | 2 / 2     |                                                                             |
+| [PRELI] Is there a GUI?           | 1 / 1     |                                                                             |
+| [NTW] Buffer / poll               | 2 / 2     |                                                                             |
+| [GUI] Render                      | 4 / 4     | Pas en 3D mais la qualité de rendu vaut un 4                                |
+| [GUI] Displayed informations      | 4 / 4     |                                                                             |
+| [GUI] Real-time Display           | 4 / 4     |                                                                             |
+| [GUI] Interactions                | 5 / 6     |                                                                             |
+| [FUN] Protocol                    | 2 / 3     |                                                                             |
+| [ARCHI] Encapsulation & abstraction | 1 / 5     |                                                                             |
+| [ARCHI] Separation of concerns    | 3 / 3     | EventDispatcher                                                             |
+| [PRELI] Is there AI?              | 1 / 1     |                                                                             |
+| [NTW] Buffer / poll               | 2 / 2     |                                                                             |
+| [FUN] Algo                        | 2 / 3     |                                                                             |
+| [FUN] Communication               | 2 / 4     |                                                                             |
+| [FUN] Level                       | 5 / 8     |                                                                             |
+| [FUN] Auto fork                   | 0 / 1     |                                                                             |
 
 ## Memory Management
 
